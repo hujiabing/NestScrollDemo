@@ -1,0 +1,2 @@
+rootProject.name = "NestScrollDemo"
+include ':app'
